@@ -1,3 +1,3 @@
-export { About } from './about.tsx'
-export { loader } from './loader.ts'
-export { action } from './action.ts'
+export { About } from './about'
+export { loader } from './loader'
+export { action } from './action'

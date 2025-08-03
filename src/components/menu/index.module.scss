@@ -1,0 +1,13 @@
+@use '../../variables';
+
+.menu {
+  a {
+    display: inline-block;
+    padding: 4px 10px;
+    text-decoration: none;
+    color: variables.$text-color;
+  }
+  .active {
+    color: variables.$active-color;
+  }
+}

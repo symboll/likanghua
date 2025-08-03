@@ -12,7 +12,6 @@ export const Home = () => {
       <div>value: {value}</div>
       <button onClick={() => dispatch(increment())}>increment</button>
       <button onClick={() => dispatch(decrement())}>decrement</button>
-
     </>
   )
 }
